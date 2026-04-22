@@ -28,4 +28,4 @@ Evaluation Metric
 The model is evaluated using  RMSPE (Root Mean Square Percentage Error)**. This ensures that the error is relative to the actual spend, providing a more business-centric accuracy score.
 
 
-   [click here] to  see the code 
+   [click here](Credit_Card_Consumption_code) to  see the code 
