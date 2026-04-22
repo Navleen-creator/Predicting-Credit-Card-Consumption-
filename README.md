@@ -1,5 +1,5 @@
 # Predicting-Credit-Card-Consumption-
-This project aims to predict the **average credit card consumption for a leading bank's customers for the next three months. 
+This project aims to predict the average credit card consumption for a leading bank's customers for the next three months. 
 By analyzing customer demographics, behavioral data (assets/liabilities), and historical transaction patterns, the model identifies 
 high-value spenders to help the bank optimize marketing strategies.
 
